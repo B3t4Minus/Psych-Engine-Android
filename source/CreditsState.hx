@@ -24,6 +24,9 @@ class CreditsState extends MusicBeatState
 	private var iconArray:Array<AttachedSprite> = [];
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
+        ['Porting The Mod'],
+        ['B3t4Minus',				'b3t4minus',			'A M O G U S',			'https://youtube.com/channel/UCfpSyqZSPOyVfaoHqGXtJzw',	0xFFFFDD33],
+        [''],
 		['Psych Engine Android by'],
 		['Kviks',				'kviks',			'Main Programmer of Psych Engine Android',			'https://youtube.com/channel/UChPjrBq7z7oSVcB3FcHMDCA',	0xFFF73838],
 		[''],
